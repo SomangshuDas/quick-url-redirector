@@ -11,7 +11,7 @@ This project works entirely on the client side and requires **no backend, no ser
 
 Many URLs—whether temporary or permanent—are difficult to manage or shorten using free URL shortening services. This includes, but is not limited to, dynamically generated links such as tunnels or proxy endpoints.
 
-URL Redirector provides a clean and reliable redirection layer using GitHub Pages.
+Quick URL Redirector provides a clean and reliable redirection layer using GitHub Pages.
 The generated GitHub Pages link can optionally be shortened further using any standard URL shortener.
 
 In addition to dynamic URLs, this project can also be used for **general-purpose redirection**, such as websites, documentation links, campaigns, or service endpoints.

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+        fetch('url.txt')
+            .then(r => r.text())
+            .then(u => location.replace(u.trim()));
+    </script>
+</head>
+<body>
+</body>
+</html>
